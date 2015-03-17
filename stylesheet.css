@@ -33,6 +33,26 @@ p{
 }
 
 
+.module {
+  background: url(images/blacksqr.jpg);
+  background-attachment: fixed;
+  width: 400px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  margin: 90px;
+}
+.module > header {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 10px;
+
+
+
+
+
 #contact_info {
   clear: both;
   background-color: aliceblue;
